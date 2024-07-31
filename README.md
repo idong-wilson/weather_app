@@ -79,12 +79,12 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://www.mit.edu/~amini/LICENSE.md)file for more details.
 
 ## Acknowledgements
 
-* OpenWeather for providing the weather data API
-* Tailwind CSS for the responsive design framework
+* [OpenWeather](https://openweathermap.org)for providing the weather data API
+* [Tailwind CSS](https://tailwindcss.com)for the responsive design framework
 
 Feel free to reach out if you have any questions or need further assistance.
 
