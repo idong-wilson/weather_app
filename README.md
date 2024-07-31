@@ -71,7 +71,7 @@ This project uses Tailwind CSS for styling. To customize the styles:
 3. Use the Tailwind directives (@tailwind base;, @tailwind components;, @tailwind utilities;) in your CSS file.
 
 ### OpenWeather API
-You can explore more features of the OpenWeather API and incorporate them into your app. Visit the OpenWeather API documentation for more details.
+You can explore more features of the OpenWeather API and incorporate them into your app. Visit the [OpenWeather API documentation](https://openweathermap.org/api) for more details.
 
 ## Contributing
 
